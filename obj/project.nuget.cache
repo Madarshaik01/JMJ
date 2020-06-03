@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJ1nI5QrRag2JBO81mLoVSChd9e+av4Sj6+rUcV/dnkpegRIUWjc0afEBbAIsb1N4oWw1O01gJZ1bMkPZ/+Mcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riyaz\\source\\repos\\JMJ\\JMJ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riyaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
